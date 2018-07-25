@@ -1,5 +1,7 @@
-JavaFX Hello World Demo
-=======================
+JavaFX TitlePane Demo
+=====================
 
-Show a window with `Hello, JavaFX` label.
+TitlePane can be used to group some components.
+
+Run `Hello.kt` in your IDE.
 
